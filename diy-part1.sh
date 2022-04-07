@@ -17,5 +17,5 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-echo 'src-git op-package https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git op-small-package https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git op_app https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+echo 'src-git op_small_app https://github.com/kenzok8/small-package' >>feeds.conf.default
